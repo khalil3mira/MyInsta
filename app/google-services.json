@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389615680962",
+    "firebase_url": "https://myinsta-b2352.firebaseio.com",
+    "project_id": "myinsta-b2352",
+    "storage_bucket": "myinsta-b2352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389615680962:android:704e85da4638a328",
+        "android_client_info": {
+          "package_name": "com.example.khalilaamira.myinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389615680962-qe7o8h8eqmdcbt3ihvk7no7glqqckqgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khalilaamira.myinsta",
+            "certificate_hash": "7c177a0389e5aa1848ccebc0e77878b97fc8c217"
+          }
+        },
+        {
+          "client_id": "389615680962-gddlovtssov1omsbh8rjojdli61t48j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LUwMgyh4s9-Y9iab88qFwGpojBQcMsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389615680962-gddlovtssov1omsbh8rjojdli61t48j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

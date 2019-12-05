@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.khalilaamira.myinsta.activities.SetupActivity"
+    android:orientation="vertical">
+
+
+    <ImageButton
+
+        android:id="@+id/setupImgButt"
+        android:src="@drawable/dummy"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_gravity="center"
+        android:onClick="profilePicClick"
+
+        android:padding="10dp"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="setupDoneClick"
+        android:text="Save"
+        android:background="@drawable/editshipe"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"/>
+
+
+
+</LinearLayout>
